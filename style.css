@@ -1,0 +1,12 @@
+.winner{
+    color: green;
+}
+.loser{
+    color:red;
+}
+
+#playTo{
+    margin-bottom: 1rem;
+    text-align: center;
+    
+}
